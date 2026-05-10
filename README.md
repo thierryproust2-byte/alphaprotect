@@ -1,4 +1,5 @@
 🛡️ AlphaProtect — Système Intelligent Anti-Prédation 
+![Schéma d'architecture AlphaProtect](AlphaProtect.png)
 Projet libre, cédé sans contrepartie. L'auteur cherche un porteur pour continuer ce travail.
 Open project, transferred freely. The author is looking for someone to carry it forward. 
  🇫🇷 Français 
